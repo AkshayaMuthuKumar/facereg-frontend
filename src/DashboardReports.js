@@ -5,8 +5,7 @@ import {
   getTodayAttendanceSummary,
   exportTodayAttendanceSummary,
   getMonthlyAttendanceStatus,
-  exportMonthlyAttendanceStatus,
-} from './api/attendanceApi';
+  exportMonthlyAttendanceStatus,} from './api/attendanceApi';
 import { getEmployees } from './api/employeeApi';
 import {
   generatePayroll as generatePayrollApi,
